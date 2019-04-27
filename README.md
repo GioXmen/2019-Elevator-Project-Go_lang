@@ -1,4 +1,4 @@
-TTK4145: Elevator Project Spring 2019
+NTNU: Elevator Project Spring 2019
 ================
 
 This respository contains code for the elevator project in TTK4145 in the spring of 2019.
